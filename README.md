@@ -20,5 +20,4 @@ This is a simple **Job Listing Application** built using **React**, **TypeScript
   - Hardcoded in a TypeScript file (`jobs.ts`).
   - Contains at least **10 job entries**.
 
-## Project Structure
 
